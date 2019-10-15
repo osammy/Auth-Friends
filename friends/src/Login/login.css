@@ -1,0 +1,30 @@
+.lg-container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    height:100vh;
+}
+.lg-form {
+    width:400px;
+    background:#f5f8fa;
+    padding:10px;
+    font-size:1.5rem;
+
+}
+
+.lg-form-input {
+    width:200px;
+    height:50px;
+    background: none;
+    border:none;
+    border-bottom:2px solid #f4811f;
+    margin-bottom:20px;
+}
+
+.lg-form-button {
+    border:none;
+    padding:10px 30px;
+    background:orangered;
+    color:white;
+}
